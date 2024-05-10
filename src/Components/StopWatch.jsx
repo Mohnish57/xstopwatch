@@ -70,7 +70,7 @@ const StopWatch = () => {
         style={{ backgroundColor: "black", color: "white", padding: ".5rem" }}
         onClick={handleReset}
       >
-        RESET
+        Reset
       </button>
     </div>
   );
