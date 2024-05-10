@@ -64,7 +64,7 @@ const StopWatch = () => {
         }}
         onClick={handleStart}
       >
-        {start ? "STOP" : "START"}
+        {start ? "Stop" : "Start"}
       </button>
       <button
         style={{ backgroundColor: "black", color: "white", padding: ".5rem" }}
